@@ -378,36 +378,3 @@ pre-commit install
 
 Please refer to our [Contribution Guide](https://modelscope.github.io/agentscope/en/tutorial/302-contribute.html) for more details.
 
-## Publications
-
-If you find our work helpful for your research or application, please cite our papers.
-
-1. [AgentScope: A Flexible yet Robust Multi-Agent Platform](https://arxiv.org/abs/2402.14034)
-
-    ```
-    @article{agentscope,
-        author  = {Dawei Gao and
-                   Zitao Li and
-                   Xuchen Pan and
-                   Weirui Kuang and
-                   Zhijian Ma and
-                   Bingchen Qian and
-                   Fei Wei and
-                   Wenhao Zhang and
-                   Yuexiang Xie and
-                   Daoyuan Chen and
-                   Liuyi Yao and
-                   Hongyi Peng and
-                   Ze Yu Zhang and
-                   Lin Zhu and
-                   Chen Cheng and
-                   Hongzhu Shi and
-                   Yaliang Li and
-                   Bolin Ding and
-                   Jingren Zhou}
-        title   = {AgentScope: A Flexible yet Robust Multi-Agent Platform},
-        journal = {CoRR},
-        volume  = {abs/2402.14034},
-        year    = {2024},
-    }
-    ```
